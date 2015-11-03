@@ -1,0 +1,5 @@
+Add multi-threading
+Add verbose messages to all methods
+Add switches to grab more granular details.  I.E maybe you just want the Yield and Dividend Amount...
+Refactor and simplify methods
+Add additional error checking and verbose error messages
